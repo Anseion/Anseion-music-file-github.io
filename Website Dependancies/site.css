@@ -9,7 +9,7 @@
 
 	}
 	section {
-		background-color: white;
+		background-color: rgb(249, 1, 1);
 		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
@@ -33,7 +33,7 @@
 		flex: 1;
 	}
 	section { 
-	background-color: white;
+	background-color: #ff0000bd;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -100,7 +100,7 @@ img {
 
 
 header {
-	background-color: #001bff;
+	background-color: #000000;
 	margin-top: 0;
 	margin-bottom: 0;
 	padding-top: 20px;
@@ -108,11 +108,11 @@ header {
 }
 
 .bg1 {
-	background-color: #ffe400;
+	background-color: #940000bd;
 }
 
 .bg2 {
-	background-color: #001bff;
+	background-color: #00095ad7;
 }
 
 .bg3 {
