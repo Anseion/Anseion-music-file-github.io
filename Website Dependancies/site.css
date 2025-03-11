@@ -52,7 +52,7 @@ body {
 	font-family: 'Roboto Slab', serif;
 	margin: 0;
 	padding: 0;
-	background-color: white;
+	background-color: rgb(0, 0, 0);
 }
 
 h1 {
@@ -112,11 +112,11 @@ header {
 }
 
 .bg2 {
-	background-color: #00095ad7;
+	background-color: #5a0000d7;
 }
 
 .bg3 {
-	background-color: #d2d2d2;
+	background-color: #000000;
 }
 
 iframe {
@@ -128,7 +128,7 @@ iframe {
 
 footer {
 	height: 100px;
-	background-color: #001bff;
+	background-color: #550000;
 }
 
 #complete {
