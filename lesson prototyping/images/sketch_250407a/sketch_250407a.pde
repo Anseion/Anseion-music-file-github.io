@@ -6,7 +6,7 @@
 //Global Variables
 float  imageDivX, imageDivY, imageDivWidth, imageDivHeight;
 //
-PImage myFirstImage
+PImage myFirstImage;
 void setup() {
   //Display
   fullScreen();
