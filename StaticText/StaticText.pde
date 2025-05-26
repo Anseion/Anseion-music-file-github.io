@@ -49,8 +49,8 @@ println(); //Skip a line
 // IF with Assignment Operator decreasing percent to illustrate WHILE
 //
 //Minimum Lines of code to format and draw text with colour
-color purpleInk = #2C08FF;
-fill(purpleInk); //Ink, hexidecimal copied from Color Selector
+color blackInk = #000000;
+fill(blackInk); //Ink, hexidecimal copied from Color Selector
 textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
 //Values: [LEFT | CENTER | RIGHT] & [TOP | CENTER | BOTTOM | BASELINE]
 textFont(titleFont, fontSize); //see variable note
