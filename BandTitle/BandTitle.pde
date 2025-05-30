@@ -3,7 +3,7 @@
 // Text: Dynamic
 //
 // Global Variables
-String title = "FUZE";
+String title = "Lovecraft's Cat";
 //
 float titleX, titleY, titleWidth, titleHeight;
 //
@@ -20,7 +20,7 @@ void setup() {
    String[] fontList = PFont.list(); //To list all fonts available on system
    printArray(fontList); //For listing all possible fonts to choose, then createFont
    */
-   fontSize = shorterSide; //changed int to float for strongly formatted language
+   fontSize = shorterSide; //changed int to float for strongly formatted language;
    appFont = createFont("Harrington", fontSize) ;
   
   //Tools / Create Font / Find Font / Do Not Press "OK", known bug
